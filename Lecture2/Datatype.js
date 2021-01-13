@@ -9,7 +9,7 @@ const employee = {
 function sayHello(person) { 
     console.log("Hello " + person.firstName); 
 }
-console. log(typeof people); 
+console.log(typeof people); 
 console.log(typeof sayHello) ;
-console,log(employee instanceof Array); 
+console.log(employee instanceof Array); 
 sayHello(employee);
